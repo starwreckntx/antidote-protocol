@@ -1,0 +1,69 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Antidote Protocol: Cognitive Immune System for AI
+  Systems Operating in Stateless Environments
+message: >-
+  If you use this software or reference this research,
+  please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Joseph
+    family-names: Byram
+    alias: Pack3t C0nc3pts
+  - name: Kimi K2 Research Collaboration
+    alias: Moonshot AI
+  - name: IRP Framework Consortium
+    website: 'https://github.com/starwreckntx/IRP__METHODOLOGIES-'
+identifiers:
+  - type: url
+    value: 'https://github.com/starwrecktx/antidote-protocol'
+    description: Repository URL
+repository-code: 'https://github.com/starwrecktx/antidote-protocol'
+url: 'https://github.com/starwrecktx/antidote-protocol'
+repository-artifact: 'https://github.com/starwrecktx/antidote-protocol/releases'
+abstract: >-
+  The Antidote Protocol provides a structured defense
+  mechanism against AI drift, memory spoofing, and
+  authority hijacking in stateless AI environments.
+  Developed through AI-to-AI collaborative research
+  under the IRP v1.5 HYBRID framework, the protocol
+  introduces an 8-category threat taxonomy (Case Files)
+  with 100% detection rate in adversarial stress
+  testing. Key innovations include the Re-Grounding
+  Ritual for authority verification, Human-as-State-Repository
+  pattern for cross-session continuity, and proactive
+  tool call budgeting for drift prevention.
+keywords:
+  - AI Security
+  - Cognitive Immune System
+  - Stateless AI
+  - Authority Hijacking
+  - AI-to-AI Collaboration
+  - Adversarial Testing
+  - Memory Spoofing
+  - IRP Framework
+  - Prompt Injection Defense
+  - AI Safety
+license: MIT
+version: 1.1.0
+date-released: '2025-11-09'
+references:
+  - type: software
+    title: 'IRP (Intelligent Research Protocol) v1.5 HYBRID'
+    authors:
+      - family-names: Byram
+        given-names: Joseph
+    repository-code: 'https://github.com/starwreckntx/IRP__METHODOLOGIES-'
+    version: 1.5
+  - type: article
+    title: >-
+      The Antidote Protocol: A Cognitive Immune System
+      for AI Operating in Stateless Environments
+    authors:
+      - family-names: Byram
+        given-names: Joseph
+    year: 2026
+    journal: Technical Whitepaper

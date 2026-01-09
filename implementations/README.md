@@ -1,11 +1,13 @@
-# Antidote Protocol - Reference Implementations
+# Antidote Protocol - Implementation Guides
 
-This directory contains reference implementations of the Antidote Protocol in multiple languages.
+⚠️ **Current Status**: Implementation specifications and architecture guides provided. **Working code contributions welcome!** See [../CONTRIBUTING.md](../CONTRIBUTING.md).
 
-## Available Implementations
+This directory contains implementation guides and specifications for the Antidote Protocol in multiple languages.
+
+## Implementation Guides
 
 ### Python
-**Status**: Reference implementation
+**Status**: Specification & guide (implementation contributions welcome)
 **Path**: `python/`
 **Requirements**: Python 3.8+
 **Documentation**: See `python/README.md`
@@ -18,7 +20,7 @@ triggers = protocol.scan(user_message, session_state)
 ```
 
 ### JavaScript/TypeScript
-**Status**: Reference implementation
+**Status**: Specification & guide (implementation contributions welcome)
 **Path**: `javascript/`
 **Requirements**: Node.js 16+
 **Documentation**: See `javascript/README.md`
