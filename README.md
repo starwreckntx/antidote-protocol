@@ -7,11 +7,15 @@
 
 **Cognitive Immune System for AI Systems Operating in Stateless Environments**
 
+> **Research Origin**: Developed through AI-to-AI collaborative research sprint using the [IRP (Intelligent Research Protocol) v1.5 HYBRID framework](https://github.com/starwreckntx/IRP__METHODOLOGIES-). See [METHODOLOGY.md](METHODOLOGY.md) for complete research framework.
+
 ## Overview
 
 The Antidote Protocol provides a structured defense mechanism against AI drift, memory spoofing, and authority hijacking. Developed through adversarial stress testing and validated on multiple AI platforms (Kimi K2, Gemini, Claude).
 
 **Core Principle:** The poison is unexamined momentum. The antidote is structured pause.
+
+**Core Mandate (P-001-R1):** "The Journey IS The Artifact" - Emergent discoveries during research are preserved as valuable artifacts.
 
 ## Status
 
@@ -134,6 +138,8 @@ class AgenticSystem:
 
 ## Documentation
 
+- [Research Methodology](METHODOLOGY.md) - **IRP framework & AI-to-AI collaboration**
+- [Quick Start Guide](QUICKSTART.md)
 - [Complete Specification v1.1](specifications/v1.1/SPECIFICATION_v1.1.md)
 - [Integration Guide](documentation/INTEGRATION_GUIDE.md)
 - [Deployment Checklist](documentation/DEPLOYMENT_CHECKLIST.md)
@@ -145,7 +151,9 @@ class AgenticSystem:
 ```
 antidote-protocol/
 ├── README.md                    # This file
+├── METHODOLOGY.md               # Research methodology & IRP framework
 ├── CHANGELOG.md                 # Version history
+├── QUICKSTART.md                # Quick start guide
 ├── LICENSE                      # MIT License
 ├── specifications/              # Protocol versions
 │   ├── v1.0/                   # Baseline specification
@@ -246,15 +254,19 @@ MIT License - See [LICENSE](LICENSE) for details
 
 ## Authors & Credits
 
-**Protocol Architect:** Joseph Byram ([@starwrecktx](https://github.com/starwrecktx))  
-**Validation Platform:** Kimi K2 (Moonshot AI)  
-**Contributors:** Gemini (Google), Claude (Anthropic)
+**Protocol Architect:** Joseph Byram / Pack3t C0nc3pts ([@starwrecktx](https://github.com/starwrecktx))
+**Research Framework:** [IRP v1.5 HYBRID "Convergence"](https://github.com/starwreckntx/IRP__METHODOLOGIES-)
+**Primary Validation Platform:** Kimi K2 (Moonshot AI)
+**Cross-Validation:** Gemini 2.5 Pro (Google), Claude Sonnet 4.5 (Anthropic)
 
 **Developed through:**
-- Adversarial stress testing (6 attack vectors)
+- AI-to-AI collaborative research sprint (IRP framework)
+- Adversarial stress testing (6 attack vectors, 410 tool calls)
 - Multi-agent coordination (DSTAR swarm)
 - Cross-platform validation (Kimi, Gemini, Claude)
-- Emergent innovation discovery
+- Emergent innovation discovery (Re-Grounding Ritual, CF-6, CF-7)
+
+See [METHODOLOGY.md](METHODOLOGY.md) for complete research methodology and IRP framework integration.
 
 ## Contact
 
