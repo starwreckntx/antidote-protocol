@@ -1,3 +1,15 @@
+```
+ _   _   _   _   _____        ___        _        ___     ____   ___    ____
+| | | | | | | | | ____|      ( _ )      | |      / _ \   / ___| |_ _|  / ___|
+| |_| | | | | | |  _|       / _ \/\     | |     | | | | | |  _   | |  | |
+|  _  | | |_| | | |___      \ (_> <     | |___  | |_| | | |_| |  | |  | |___
+|_| |_|  \___/  |_____|      \___/\/     |_____|  \___/   \____| |___|  \____|
+```
+
+> **[Hue & Logic Labs](https://www.hueandlogic.com)** · Maintained by [Joseph Byram (starwreckntx)](https://github.com/starwreckntx)
+
+---
+
 # Antidote Protocol
 
 [![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/starwrecktx/antidote-protocol/releases/tag/v1.1.0)
